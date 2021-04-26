@@ -154,6 +154,7 @@
 .formulario-editar-tarea__input {
 	width: 100%;
 	border: none;
+	outline: none;
 	border-bottom: 2px solid #b8b8b8;
 	background: none;
 	font-size: 20px;
